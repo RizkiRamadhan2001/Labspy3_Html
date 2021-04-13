@@ -1,4 +1,4 @@
-# Membuat Daftar Pesanan#
+# Membuat Daftar Pesanan
 
 Masukan kode berikut untuk membuat list
 ![Ordered list](https://user-images.githubusercontent.com/81546034/114508655-d0456600-9c5e-11eb-9643-98282a04e31e.JPG)
